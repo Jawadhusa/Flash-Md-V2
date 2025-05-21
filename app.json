@@ -29,7 +29,7 @@
     },
     "OWNER_NAME": {
       "description": "Your name (used for bot credits and messages)",
-      "value": "FLASH-MD",
+      "value": "JAWAD",
       "required": false
     },
     "ANTICALL": {
@@ -54,7 +54,7 @@
     },
     "PREFIX": {
       "description": "Command prefix(es), separated by commas (e.g. !,.,#)",
-      "value": "!",
+      "value": ".",
       "required": false
     },
     "SESSION": {
@@ -64,7 +64,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number in international format (e.g. 254742063630)",
-      "value": "",
+      "value": "212637915359",
       "required": true
     },
     "HEROKU_API_KEY": {
